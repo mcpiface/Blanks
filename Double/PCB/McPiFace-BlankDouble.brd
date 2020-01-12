@@ -463,6 +463,23 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <element name="LOGO1" library="SparkFun-Aesthetics" package="OSHW-LOGO-M" value="OSHW-LOGOM" x="80.5" y="5.7" rot="MR0"/>
 </elements>
 <signals>
+<signal name="N$1">
+<polygon width="0.4064" layer="1">
+<vertex x="0" y="87.9475"/>
+<vertex x="87.9475" y="87.9475"/>
+<vertex x="87.9475" y="0"/>
+<vertex x="0" y="0"/>
+</polygon>
+</signal>
+<signal name="N$2">
+<polygon width="0.4064" layer="16">
+<vertex x="0" y="87.9475"/>
+<vertex x="87.9475" y="87.9475"/>
+<vertex x="87.9475" y="0"/>
+<vertex x="0" y="0"/>
+<vertex x="0" y="87.63"/>
+</polygon>
+</signal>
 </signals>
 </board>
 </drawing>

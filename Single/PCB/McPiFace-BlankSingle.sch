@@ -314,7 +314,7 @@
 <wire x1="-19.6" y1="44" x2="66.2" y2="44" width="0" layer="49"/>
 <wire x1="-19.7" y1="66" x2="66.1" y2="66" width="0" layer="49"/>
 <wire x1="-21" y1="22" x2="64.8" y2="22" width="0" layer="49"/>
-<dimension x1="22" y1="82" x2="22" y2="6" x3="-9.3" y3="44" textsize="1.27" layer="21"/>
+<dimension x1="22" y1="82" x2="22" y2="6" x3="-9.3" y3="44" textsize="1.27" layer="47"/>
 <circle x="7" y="67.5" radius="1.140175" width="0.127" layer="49"/>
 <circle x="7" y="20.5" radius="1.140175" width="0.127" layer="49"/>
 </package>

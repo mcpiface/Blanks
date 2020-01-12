@@ -1,0 +1,10 @@
+Partlist
+
+Exported from McPiFace-BlankSingle.brd at 12/01/2020 15:52
+
+EAGLE Version 7.4.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part     Value          Package  Library  Position (inch)       Orientation
+
